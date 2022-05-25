@@ -1,0 +1,2 @@
+- 👋 Me chamo barbosa.
+- estudo front end
